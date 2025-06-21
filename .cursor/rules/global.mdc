@@ -1,0 +1,7 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Always use shadcn components
+- follow a consistent behavior for dropdowns, texts, colors, and overall look and feel.
